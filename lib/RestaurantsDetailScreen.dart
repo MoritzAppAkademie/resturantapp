@@ -1,0 +1,1 @@
+//DetailScreen bauen mit Änderungs/Löschen Funktion
